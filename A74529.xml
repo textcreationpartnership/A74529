@@ -1,0 +1,384 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance for an assessment for six moneths, from June 24. 1654. for maintenance of the armies and navies of this Common-wealth, at the rate of 120000 l. per mensem, for the first three moneths. And at the rate of 90000.l. per mensem, for the last three moneths thereof. Thursday June 8. 1654. Ordered by his Highness the Lord Protector, and his council, that this ordinance be forthwith printed and published. Henry Scobell, Clerk of the Council.</title>
+            <title>Orders in Council. 1654-06-08.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74529</idno>
+            <idno type="STC">Thomason E1064_10</idno>
+            <idno type="STC">ESTC R210203</idno>
+            <idno type="EEBO-CITATION">99869023</idno>
+            <idno type="PROQUEST">99869023</idno>
+            <idno type="VID">169210</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74529)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169210)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 159:E1064[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance for an assessment for six moneths, from June 24. 1654. for maintenance of the armies and navies of this Common-wealth, at the rate of 120000 l. per mensem, for the first three moneths. And at the rate of 90000.l. per mensem, for the last three moneths thereof. Thursday June 8. 1654. Ordered by his Highness the Lord Protector, and his council, that this ordinance be forthwith printed and published. Henry Scobell, Clerk of the Council.</title>
+                  <title>Orders in Council. 1654-06-08.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>England and Wales. Council of State. aut</author>
+               </titleStmt>
+               <extent>[2], 365, 370, 367-377, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by William du-Gard and Henry Hills, printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text continuous despite pagination.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  approbations and expenditures --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169210:1" rendition="simple:additions"/>
+            <p>AN ORDINANCE FOR AN ASSESSMENT FOR Six Moneths, From <hi>June</hi> 24. 1654. for maintenance of the Armies and Navies of this Common-wealth, at the rate of 120000 <abbr>l</abbr> 
+               <hi>per menſem,</hi> for the firſt three moneths. And at the rate of 90000. <abbr>l</abbr> 
+               <hi>per menſem,</hi> for the laſt three Moneths thereof.</p>
+            <figure/>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>Thurſday June</hi> 8. 1654.</date>
+                     </dateline>
+                  </opener>
+                  <p>ORdered by his Highneſs the Lord Protector, and His Council, That this Ordinance be forthwith Printed and Publiſhed.</p>
+                  <closer>
+                     <signed>
+                        <hi>Henry Scobell,</hi> Clerk of the Council.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed by <hi>William du-Gard</hi> and <hi>Henry Hills,</hi> Printers to His Highneſs the Lord Protector, 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:169210:2"/>
+            <pb n="365" facs="tcp:169210:2"/>
+            <head>
+               <figure/>AN ORDINANCE For an Aſſeſſment for ſix Moneths from <hi>June</hi> 24. 1654. for the maintenance of the Armies and Navies of this Common-wealth, at the rate of one hundred and twenty thouſand pounds <hi>per menſem,</hi> for the firſt three months. And at the rate of ninety thouſand pound <hi>per men<g ref="char:EOLhyphen"/>ſem,</hi> for the laſt three moneths thereof.</head>
+            <p>
+               <seg rend="decorInit">B</seg>E it Ordained and De<g ref="char:EOLhyphen"/>clared by his High<g ref="char:EOLhyphen"/>neſs the Lord Pro<g ref="char:EOLhyphen"/>tector, with the con<g ref="char:EOLhyphen"/>ſent of his Council, And it is hereby Or<g ref="char:EOLhyphen"/>dained, That to<g ref="char:EOLhyphen"/>wards the mainte<g ref="char:EOLhyphen"/>nance of the Armies and Navies of this Common-wealth, an Aſſeſsment of one hun<g ref="char:EOLhyphen"/>dred
+<pb n="370" facs="tcp:169210:3"/>and twenty thouſand pounds <hi>per menſem,</hi> for three moneths, commencing the four and twentieth day of <hi>June</hi> one thouſand ſix hundred fifty four, and ending the nine and twentieth day of <hi>September</hi> following, And of ninety thouſand pounds <hi>per menſem,</hi> for three moneths commencing the ſaid nine and twentieth of <hi>Sep<g ref="char:EOLhyphen"/>tember</hi> one thouſand ſix hundred fifty four, and ending the five and twentieth day of <hi>December</hi> following, ſhall be taxed, collected, levyed and paid in <hi>England</hi> and <hi>Wales,</hi> in ſuch ſort as hereafter is expreſſed, That is to ſay, The ſaid firſt three moneths Aſſeſsment of one hundred and twenty thouſand pounds by the Moneth, from the four and twentieth of <hi>June</hi> one thouſand ſix hundred fifty four, to the nine and twentieth of <hi>September</hi> following, ſhall be taxed, collected, levyed and paid in the ſeveral Counties, Cities, Towns and Places in <hi>England</hi> and <hi>Wales</hi> by the ſeveral Summs, and according to the ſeveral rates and propor<g ref="char:EOLhyphen"/>tions, and in ſuch manner, as in and by a late Act of Parlament, Entituled, <hi>An Act for an Aſſeſsment at the rate of one hundred and twenty thouſand pounds by the Moneth for ſix Moneths from the five and twentieth day of December one thouſand ſix hundred fifty three to the four and twentieth day of June then next enſuing towards the mainte<g ref="char:EOLhyphen"/>nance of the Armies and Navies of this Common<g ref="char:EOLhyphen"/>wealth,</hi> and publiſhed the four and twentieth day of <hi>November</hi> one thouſand ſix hundred fifty three; the ſaid ſix Moneths Aſſeſsment of one hundred and twenty thouſand pounds <hi>per menſem,</hi> was appointed to be levyed, col<g ref="char:EOLhyphen"/>lected and paid.</p>
+            <p>And be it further Ordained by the Authori<g ref="char:EOLhyphen"/>ty
+<pb n="367" facs="tcp:169210:3"/>aforeſaid, That the ſaid Sum of ninety thouſand pounds <hi>per menſem,</hi> for the latter three Moneths Aſſeſsment to commence from the twenty nineth of <hi>September,</hi> one thouſand ſix hundred fifty four, to the five and twentyeth day of <hi>December</hi> then next following, towards the maintenance of the ſaid Armies and Na<g ref="char:EOLhyphen"/>vies of this Common-wealth, ſhall for every Moneth of the ſaid three Moneths be aſſeſſed, taxed, levyed and paid in the ſeveral Counties and places in <hi>England</hi> and <hi>Wales</hi> according to the ſeveral Summs and proportions hereafter expreſſed, <hi>viz.</hi> for every Moneth of the ſaid lat<g ref="char:EOLhyphen"/>ter three Moneths.</p>
+            <list>
+               <item>UPon the County of <hi>Bedford,</hi> the ſum of one thouſand two hundred pounds.</item>
+               <item>The County of <hi>Berks,</hi> the ſum of one thou<g ref="char:EOLhyphen"/>ſand four hundred pounds.</item>
+               <item>The County of <hi>Bucks,</hi> the ſum of one thou<g ref="char:EOLhyphen"/>ſand ſix hundred and fifty pounds.</item>
+               <item>The County of <hi>Cambridge,</hi> the ſum of one thouſand four hundred and ſeventeen pounds and ten ſhillings.</item>
+               <item>The Iſle of <hi>Ely,</hi> the ſum of four hundred ſeventy two pounds and ten ſhillings.</item>
+               <item>The County of <hi>Cheſter,</hi> the ſum of nine hun<g ref="char:EOLhyphen"/>dred and ninety pounds.</item>
+               <item>The City and County of the City of <hi>Cheſter,</hi> the ſum of one hundred and ten pounds.</item>
+               <item>The County of <hi>Cornwall,</hi> the ſum of two thouſand one hundred pounds.</item>
+               <item>The County of <hi>Cumberland,</hi> the ſum of one hundred thirty eight pounds ſeventeen ſhil<g ref="char:EOLhyphen"/>lings.</item>
+               <item>The County of <hi>Derby,</hi> the ſumm of one
+<pb n="368" facs="tcp:169210:4"/>thouſand two hundred pounds.</item>
+               <item>The County of <hi>Devon,</hi> the ſum of three thou<g ref="char:EOLhyphen"/>ſand eight hundred ſixty two pounds.</item>
+               <item>The City and County of the City of <hi>Exon,</hi> the ſum of one hundred thirty eight pounds.</item>
+               <item>The County of <hi>Dorſet,</hi> the ſumm of one thouſand ſix hundred eighty ſix pounds and five ſhillings.</item>
+               <item>The Town and County of <hi>Pool,</hi> the ſum of thirteen pounds and fifteen ſhillings.</item>
+               <item>The County of <hi>Durham,</hi> the ſum of one hun<g ref="char:EOLhyphen"/>dred ninety ſeven pounds twelve ſhillings eight pence.</item>
+               <item>The County of <hi>York,</hi> with the City and County of the City of <hi>York,</hi> the ſum of three thouſand nine hundred and thirteen pounds.</item>
+               <item>The Town and County of <hi>Kingſton</hi> upon <hi>Hull</hi> the ſum of eighty ſeven pounds.</item>
+               <item>The County of <hi>Eſſex,</hi> the ſum of four thou<g ref="char:EOLhyphen"/>ſand five hundred pounds.</item>
+               <item>The County of <hi>Glouceſter,</hi> the ſum of two thouſand ninety one pounds.</item>
+               <item>The City and County of the City of <hi>Glouce<g ref="char:EOLhyphen"/>ſter,</hi> the ſum of two hundred and nine pounds.</item>
+               <item>The County of <hi>Hereford,</hi> the ſum of one thou<g ref="char:EOLhyphen"/>ſand five hundred pounds.</item>
+               <item>The County of <hi>Hertford,</hi> the ſum of one thou<g ref="char:EOLhyphen"/>ſand eight hundred pounds.</item>
+               <item>The County of <hi>Huntington,</hi> the ſum of eight hundred pounds.</item>
+               <item>The County of <hi>Kent,</hi> with the City and County of the City of <hi>Canterbury,</hi> the ſum of four thouſand ſeven hundred pounds.</item>
+               <item>The County of <hi>Lancaſter,</hi> the ſumm of one thouſand two hundred pounds.</item>
+               <pb n="369" facs="tcp:169210:4"/>
+               <item>The County of <hi>Lieceſter,</hi> the ſum of one thou<g ref="char:EOLhyphen"/>ſand four hundred pounds.</item>
+               <item>The County of <hi>Lincoln,</hi> with the City and County of the City of <hi>Lincoln,</hi> the ſumm of three thouſand five hundred pounds.</item>
+               <item>The City of <hi>London,</hi> the ſum of ſix thou<g ref="char:EOLhyphen"/>ſand pounds.</item>
+               <item>The County of <hi>Middleſex,</hi> with the City and Liberty of <hi>Weſtminſter,</hi> the ſum of two thou<g ref="char:EOLhyphen"/>ſand three hundred pounds.</item>
+               <item>The County of <hi>Monmouth,</hi> the ſum of ſix hundred pounds.</item>
+               <item>The County of <hi>Northampton,</hi> the ſum of one thouſand eight hundred pounds.</item>
+               <item>The County of <hi>Nottingham</hi> the ſum of one thouſand one hundred ſixty one pounds ſix ſhil<g ref="char:EOLhyphen"/>lings.</item>
+               <item>The Town and County of <hi>Nottingham,</hi> the ſumm of thirty eight pounds fourteen ſhil<g ref="char:EOLhyphen"/>lings.</item>
+               <item>The County of <hi>Norfolk,</hi> the Summ of fower thouſand ſix hundred and ſixty pounds.</item>
+               <item>The City and County of the City of <hi>Norwich,</hi> the ſumm of two hundred and four<g ref="char:EOLhyphen"/>ty pounds.</item>
+               <item>The County of <hi>Northumberland,</hi> the ſum of two hundred thirty one pounds eight ſhillings and four pence.</item>
+               <item>The Town of <hi>Newcaſtle,</hi> the ſumm of for<g ref="char:EOLhyphen"/>ty five pounds fifteen ſhillings.</item>
+               <item>The County of <hi>Oxon,</hi> the ſum of one thou<g ref="char:EOLhyphen"/>ſand four hundred and fifty pounds.</item>
+               <item>The County of <hi>Rutland,</hi> the ſum of three hun<g ref="char:EOLhyphen"/>dred and fifty pounds.</item>
+               <item>The County of <hi>Salopp</hi> the ſumm of one
+<pb n="370" facs="tcp:169210:5"/>thouſand ſeven hundred pounds.</item>
+               <item>The County of <hi>Stafford,</hi> with the City of <hi>Litchfield,</hi> the ſumm of one thouſand two hun<g ref="char:EOLhyphen"/>dred pounds.</item>
+               <item>The County of <hi>Somerſet,</hi> the ſum of three thouſand five hundred pounds.</item>
+               <item>The City and County of the City of <hi>Bri<g ref="char:EOLhyphen"/>ſtoll,</hi> the Summ of two hundred and twenty pounds.</item>
+               <item>The County of <hi>Southampton</hi> with the Town and County of <hi>Southampton,</hi> the ſum of two thouſand ſix hundred pounds.</item>
+               <item>The County of <hi>Suffolk,</hi> the Sum of four thouſand ſeven hundred pounds.</item>
+               <item>The County of <hi>Surrey,</hi> the ſum of two thou<g ref="char:EOLhyphen"/>ſand and twelve pounds and ten ſhillings.</item>
+               <item>The Burrough of <hi>Southwark,</hi> the ſumm of two hundred thirty ſeven pounds and ten ſhil<g ref="char:EOLhyphen"/>lings.</item>
+               <item>The County of <hi>Suſſex,</hi> the ſum of two thou<g ref="char:EOLhyphen"/>ſand four hundred and fifty pounds.</item>
+               <item>The County of <hi>Warwick,</hi> with the City and County of the City of <hi>Coventry,</hi> the ſum of one thouſand ſix hundred pounds.</item>
+               <item>The County of <hi>Worceſter,</hi> with the City and County of the City of <hi>Worceſter,</hi> the ſum of one thouſand ſix hundred pounds.</item>
+               <item>The County of <hi>Wilts,</hi> the ſum of two thou<g ref="char:EOLhyphen"/>ſand five hundred pounds.</item>
+               <item>The County of <hi>Weſtmerland,</hi> the ſum of ninety five pounds and two ſhillings.</item>
+               <item>The Iſle of <hi>Angleſey,</hi> the ſum of one hun<g ref="char:EOLhyphen"/>dred ſeventy four pounds, and ten ſhillings.</item>
+               <item>The County of <hi>Brecknock,</hi> the ſum of four hundred ſixty five pounds.</item>
+               <pb n="371" facs="tcp:169210:5"/>
+               <item>The Countie of <hi>Cardigan,</hi> the ſum of five hundred fourtie nine pounds.</item>
+               <item>The Countie of <hi>Carmarthen,</hi> the ſum of four hundred fiftie three pounds.</item>
+               <item>The Countie of <hi>Carnarvan,</hi> the ſum of two hundred and ſixty pounds.</item>
+               <item>The Countie of <hi>Denbigh,</hi> the ſum of three hundred and fiftie pounds.</item>
+               <item>The Countie of <hi>Flint,</hi> the ſum of one hun<g ref="char:EOLhyphen"/>dred ſeventie four pounds and ten ſhillings.</item>
+               <item>The Countie of <hi>Glamorgan,</hi> the ſum of five hundred and nintie pounds.</item>
+               <item>The Countie of <hi>Merioneth,</hi> the ſum of one hundred and ſixtie pounds.</item>
+               <item>The Countie of <hi>Montgomery,</hi> the ſum of three hundred and eightie pounds.</item>
+               <item>The Countie of <hi>Pembroke,</hi> the ſum of five hundred twentie two pounds.</item>
+               <item>The Countie of <hi>Radnor,</hi> the ſum of three hundred twentie ſeven pounds.</item>
+               <item>The Town of <hi>Haverford-weſt,</hi> the ſum of eighteen pounds fifteen ſhillings.</item>
+               <item>The Town of <hi>Berwick,</hi> the ſum of ſeven pounds and ten ſhillings.</item>
+            </list>
+            <p>And bee it further Ordeined, That the ſeveral Commiſſioners, and other perſons nominated and mentioned in the ſaid late Act of Parlament, Entituled, <hi>An Act for an Aſſeſment, at the rate of one hundred and twenty thou<g ref="char:EOLhyphen"/>ſand pounds by the month, for ſix months, from the twenty fift day of December, One thouſand ſix hundred fifty three, to the twentie fourth day of June then next enſuing, towards the maintenance of the Armies and Navies of this Common-wealth,</hi> and ſuch others who have by any Order of the late Parla<g ref="char:EOLhyphen"/>ment,
+<pb n="372" facs="tcp:169210:6"/>or of his Highneſs the Lord Protector and His Council, been thereunto ſince ad<g ref="char:EOLhyphen"/>ded, &amp; authorized to act as Commiſſioners, ſhall bee, and hereby are authorized, ap<g ref="char:EOLhyphen"/>pointed and continued to bee Commiſſioners, and ſhall have, uſe, exerciſe, and put in exe<g ref="char:EOLhyphen"/>cution all and everie the powers and autho<g ref="char:EOLhyphen"/>rities, for the Aſſeſſing, Collecting, Levy<g ref="char:EOLhyphen"/>ing, and paying the preſent ſix months Aſ<g ref="char:EOLhyphen"/>ſeſment hereby appointed to bee Aſſeſſed and paid, as alſo the arrears of all former Aſ<g ref="char:EOLhyphen"/>ſeſments which they had, and were impow<g ref="char:EOLhyphen"/>red and appointed to uſe and exerciſe by the ſaid recited Act, for the Aſſeſſing, Collecting, Levying and payment of the aforeſaid ſix months Aſſeſment of one hundred and twen<g ref="char:EOLhyphen"/>tie thouſand pounds by the month; And that the ſeveral rules, directions, clauſes, and proviſo's mentioned and contained in the ſaid recited Act, and the powers and autho<g ref="char:EOLhyphen"/>rities thereby given to all, and every the perſons therein named or mentioned, ſhall endure and have continuance for ſix months longer, <hi>viz.</hi> from the ſaid twentie fourth day of <hi>June,</hi> One thouſand ſix hundred fiftie four, to the twentie fifth of <hi>December</hi> next follow<g ref="char:EOLhyphen"/>ing: For the better effecting whereof, it is hereby further Ordeined, That the ſeveral and reſpective Commiſſioners hereby ap<g ref="char:EOLhyphen"/>pointed and continued for the ſaid ſeveral and reſpective Counties, Cities, &amp; Towns, ſhall meet together at the moſt common and uſual place of meeting in each of the ſaid Counties, Cities, and Towns reſpective<g ref="char:EOLhyphen"/>ly, on or before the twenty ninth day of <hi>June</hi>
+               <pb n="373" facs="tcp:169210:6"/>one Thouſand ſix hundred fifty four. And the ſaid Commiſſioners or ſo many of them as ſhall then and there attend, and bee pre<g ref="char:EOLhyphen"/>ſent, ſhall cauſ this preſent Ordinance to bee put in execution (for the ordering, directing, managing, levying, and bringing in the Monthly aſſeſſment by this Ordinance re<g ref="char:EOLhyphen"/>quired) and ſhall then (if they ſee cauſ) ap<g ref="char:EOLhyphen"/>point a ſecond General meeting, on or before the twelfth day of <hi>July,</hi> one Thouſand ſix hundred fifty four, to the end the rules, and directions in this Ordinance given, and pre<g ref="char:EOLhyphen"/>ſcribed, may bee, as is before declared, time<g ref="char:EOLhyphen"/>ly and effectually proſecuted and obſerved, ſo as the full ſum of the firſt three Months Aſſeſſment charged upon each diviſion, hun<g ref="char:EOLhyphen"/>dred, pariſh, or place, may bee at once who<g ref="char:EOLhyphen"/>ly Collected and payd in to the reſpective Receivers General, at or before the Twen<g ref="char:EOLhyphen"/>tieth day of <hi>July</hi> next; And the later three Months Aſſeſſment, to bee alſo fully Col<g ref="char:EOLhyphen"/>lected, and paid in to the ſaid reſpective Re<g ref="char:EOLhyphen"/>ceivers General, at or before the tenth day of <hi>October</hi> next; And it is hereby further Or<g ref="char:EOLhyphen"/>deined, That in caſe the way or manner of Aſſeſſing by a Survey, and pound rate, in ſuch ſort, as is preſcribed by the ſaid recited Act, ſhall prove prejudicial, and obſtructive to the bringing in of the preſent ſix Months Aſſeſſment hereby appointed and ordeined, by the times limited for paying in of the ſame, That then, and in all ſuch caſes the ſaid Commiſſioners in any of the ſaid Coun<g ref="char:EOLhyphen"/>ties, Cities, Towns, and places, in the ſaid recited Act mentioned, where ſuch obſtructi<g ref="char:EOLhyphen"/>ons
+<pb n="374" facs="tcp:169210:7"/>ſhall bee or happen, or the major part of them preſent at their General meeting, may and are hereby Authorized (for the removal of ſuch obſtructions, and the more ſpeedy and effectuall execution of this Ordinance) to proceed according to the moſt juſt and equall way of rates held in ſuch places in the pro<g ref="char:EOLhyphen"/>portioning, levying, &amp; Aſſeſſing the reſpective Sums Charged upon them, and every of them, any thing in the ſaid recited Act to the contrary thereof conteined in any wiſe not<g ref="char:EOLhyphen"/>withſtanding.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Thurſday</hi> 8<hi rend="sup">th</hi> 
+                     <hi>June,</hi> 1654.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by His Highneſs the Lord PROTECTOR and the Council, That this Ordinance bee forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>
+                  <hi>Hen. Scobell,</hi> Clerk of the Council.</signed>
+            </closer>
+         </div>
+         <div type="decree">
+            <pb n="375" facs="tcp:169210:7"/>
+            <opener>
+               <dateline>
+                  <date>Thurſday the <hi>8<hi rend="sup">th</hi>
+                     </hi> June, <hi>1654.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>ORdered by His Highneſs the Lord PROTECTOR and the COUNCIL, that the ſeveral perſons here undernamed, bee, and are hereby conſtituted and appointed Commiſſioners for the Aſſeſſments, in the ſeveral Counties and Places here under<g ref="char:EOLhyphen"/>written reſpectively; and they are hereby impowred to Act as Commiſſioners, as fully, to all intents and purpoſes, as any the Commiſſioners named in the laſt Act may, or have power to do, by this preſent Ordinance.</p>
+            <list>
+               <item>
+                  <hi>For the Citie and Countie of the Citie of</hi> Gloceſter.
+<list>
+                     <item>Thomas Hodges, Eſquires.</item>
+                     <item>William Shepheard, Eſquires.</item>
+                     <item>William Neaſt, Eſquires.</item>
+                     <item>John Croft, Eſquires.</item>
+                     <item>Thomas Wall, Eſquires.</item>
+                     <item>John Millington, Eſquires.</item>
+                     <item>Francis Harris, Gent.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Citie of</hi> Weſtminſter <hi>and liberties thereof.</hi>
+                  <list>
+                     <item>John Hooker, Eſquire.</item>
+                     <item>George Merifield.</item>
+                     <item>Henry Field.</item>
+                     <item>John Throckmorton.</item>
+                     <item>John Brown.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Countie of</hi> Cornwall.
+<list>
+                     <item>Hugh Boſcawen, Eſquires.</item>
+                     <item>Anthony Nicholl, Eſquires.</item>
+                     <item>John Moyle, Eſquires.</item>
+                     <item>Thomas Gewen, Eſquires.</item>
+                     <item>Thomas Ceeley, Eſquires.</item>
+                     <pb n="376" facs="tcp:169210:8"/>
+                     <item>John Thomas, Eſquires.</item>
+                     <item>Tho. Penwarne, Eſquires.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Countie of</hi> Suffolk.
+<list>
+                     <item>Robert Knowlys, Eſquire.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Countie of</hi> Berks.
+<list>
+                     <item>William Nelſon <hi>of</hi> Chadleworth, Eſquire.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Countie of</hi> Surrey.
+<list>
+                     <item>Robert Croſs <hi>of</hi> Richmond, Eſquires.</item>
+                     <item>Samuel Rous, Eſquires.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Countie of</hi> York <hi>and the Citie of</hi> York.
+<list>
+                     <item>
+                        <hi>Sir</hi> Robert Berwick.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Countie of</hi> Cambridg.
+<list>
+                     <item>
+                        <hi>Col.</hi> Robert Caſtle.</item>
+                     <item>
+                        <hi>Major</hi> Agricola Waylett.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Countie of</hi> Worceſter.
+<list>
+                     <item>John Egioke, Eſquires.</item>
+                     <item>John Naufan, Eſquires.</item>
+                     <item>John Barker, Eſquires.</item>
+                     <item>Richard Varicon, Eſquires.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Countie of</hi> Glamorgan.
+<list>
+                     <item>
+                        <hi>Sir</hi> Thomas Lewis, Knight.</item>
+                     <item>Herbert Evans, <abbr>Eſq</abbr>
+                     </item>
+                     <item>Robert Williams <hi>of</hi> S<hi rend="sup">t</hi> Hillory.</item>
+                     <item>William Baſſett <hi>of</hi> Bewper, <abbr>Eſq</abbr>
+                     </item>
+                     <item>William Baſſet <hi>of</hi> Miskin, <abbr>Eſq</abbr>
+                     </item>
+                     <item>Richard Evans, Gent.</item>
+                  </list>
+               </item>
+               <pb n="377" facs="tcp:169210:8"/>
+               <item>
+                  <hi>For the Countie of</hi> Somerſet.
+<list>
+                     <item>
+                        <hi>Col.</hi> Nathanaël Whetham.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Countie of</hi> Middleſex.
+<list>
+                     <item>M<hi rend="sup">r</hi> Thomas Ayres.</item>
+                     <item>M<hi rend="sup">r</hi> Richard Wilcox.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Iſle of</hi> Ely.
+<list>
+                     <item>William Fiſher, <abbr>Eſq</abbr>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Countie of</hi> Stafford.
+<list>
+                     <item>Edward Bagot <hi>of</hi> Blithfield.</item>
+                  </list>
+               </item>
+            </list>
+            <closer>
+               <signed>
+                  <hi>Hen. Scobell,</hi> Clerk of the Council.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
